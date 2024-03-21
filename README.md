@@ -50,7 +50,7 @@ To install the portfolio application on your local machine, you can use the foll
 
 To use the portfolio application, cd into the directory and start the application: `npm start` or `npm run start` and visit http://localhost:3000 in your web browser. Explore the different sections of the portfolio such as About Me, Portfolio, Contact, and Resume. Test the functionality of the contact form with field validations. All sections count with Responsive design.
 
-Here is a screenshot of the application when running npm start: ![Landing Page](./assets/LandingPage.png) and the link to the deployed app on Netlify: [mydev-portfolio.netlify.app](https://mydev-portfolio.netlify.app/)
+Here is a screenshot of the application when running npm start: ![Landing Page](./assets/LandingPage.png) and the link to the deployed app on Netlify: [mydev-portfolio.netlify.app](https://mydev-portfolioo.netlify.app/)
 
 ## License
 
