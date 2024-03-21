@@ -1,5 +1,5 @@
 import React from "react";
-import profileImage from "../assets/profile.jpg";
+import profileImage from "../../assets/profile.jpg";
 
 // AboutMe component that displays my name, image, and bio information 
 // Styled with Tailwind CSS 

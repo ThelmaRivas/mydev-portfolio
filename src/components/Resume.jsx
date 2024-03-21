@@ -1,5 +1,5 @@
 import React from "react";
-import resumePDF from "../assets/CV.pdf";
+import resumePDF from "../../assets/CV.pdf";
 
 // Resume component with download link and list of skills
 const Resume = () => {
